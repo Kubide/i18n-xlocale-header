@@ -1,4 +1,4 @@
-# cors-express
+# i18n X-Locale 
 
 Middleware to control i18n middleware based on a X-Locale header
 

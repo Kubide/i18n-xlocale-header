@@ -1,6 +1,6 @@
 {
   "name": "i18n-xlocale",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Middleware to control i18n middleware based on X-Locale header",
   "main": "index.js",
   "scripts": {
